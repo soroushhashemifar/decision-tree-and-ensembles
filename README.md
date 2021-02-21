@@ -11,7 +11,7 @@ This project is created to compare performance of decision tree and different en
 
 These experiments are done on occupancy dataset. 
 
-Data Set Information:
+## Dataset
 
 Three data sets are submitted, for training and testing. Ground-truth occupancy was obtained from time stamped pictures that were taken every minute.
 
